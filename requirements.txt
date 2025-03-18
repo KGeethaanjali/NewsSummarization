@@ -1,0 +1,8 @@
+streamlit==1.26.0
+beautifulsoup4==4.12.2
+requests==2.31.0
+transformers==4.34.0
+torch==2.0.1
+gtts==2.4.0
+pandas==2.0.3
+nltk==3.8.1
